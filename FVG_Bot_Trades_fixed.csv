@@ -1,0 +1,2 @@
+OpenTime,CloseTime,TicketID,Symbol,Direction,LotSize,EntryPrice,StopLoss,TakeProfit,ClosePrice,PnL_USD,Commission,Swap,DurationMins,ExitReason,ConfluenceScore,Tier,RiskPercent,Reasons,ATR_AtEntry,SpreadAtEntry,RSI_AtEntry,SessionTag
+2026.03.26 07:07,2026.03.26 11:44,1557525360,XAUUSD,SELL,0.05,4445.95000,4469.04000,4403.76000,4416.03000,89.28,-0.11,0.00,277,Trailing,6,3,1.30,,0.00000,0.0,0.00,London
